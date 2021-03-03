@@ -6,3 +6,7 @@
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/2_Range_Azimuth_spectrum_matrix_3.PNG)
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/2_Range_Azimuth_spectrum_matrix_4.PNG)
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/2_Range_Azimuth_spectrum_matrix_5.PNG)
+![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/3_Feature_extraction.PNG)
+![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/3_Feature_extraction_1.PNG)
+![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/4_Zone_detection.PNG)
+![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/4_Zone_detection_1.PNG)
