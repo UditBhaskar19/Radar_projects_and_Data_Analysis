@@ -1,4 +1,4 @@
-# Occupany Monitoring (work in progress !!.. )
+# Radar Micro-doppler signatures (work in progress !!.. )
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/1_Low_Level_Rad_processing.PNG)
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/2_Range_Azimuth_spectrum_matrix.PNG)
 ![](https://github.com/UditBhaskar19/Radar_projects_and_Data_Analysis/blob/main/Occupancy_monitoring/Readme_files/2_Range_Azimuth_spectrum_matrix_1.PNG)
